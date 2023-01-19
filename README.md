@@ -10,3 +10,10 @@ The cards are randomized until the stop button is chosen. and can be restarted u
 
 
 
+
+<img width="480" alt="Screen Shot 2023-01-19 at 4 03 14 PM" src="https://user-images.githubusercontent.com/122483485/213559045-b21ce024-e3bd-43fd-8fd9-59649f22524d.png">
+
+
+
+
+
